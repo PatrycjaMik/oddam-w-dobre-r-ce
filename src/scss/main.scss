@@ -1,0 +1,9 @@
+@import './settings/colors';
+@import './settings/fonts';
+@import './reset.css';
+
+body {
+    font-family: $font-base;
+    font-size: 40px;
+    color: $color-brown;
+};
